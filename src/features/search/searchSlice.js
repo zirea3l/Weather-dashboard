@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   searchValue: "",
-  location: "Vilnius, Lithuania",
+  location: "Palampur , India",
 };
 
 const searchSlice = createSlice({
