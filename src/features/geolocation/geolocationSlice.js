@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-  geolocation: { lat: 54.687157, lng: 25.279652 },
+  geolocation: { lat: 32.1109, lng: 76.5363 },
 };
 
 const geolocationSlice = createSlice({
